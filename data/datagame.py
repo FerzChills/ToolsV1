@@ -1,4 +1,5 @@
-# Python code obfuscated by www.development-tools.net 
+#RECODE BOLEH ASALKAN JAN HAPUS AUTHOR
+#SCRIPT BY FERZ CHILLS
  
 
 import base64, codecs
